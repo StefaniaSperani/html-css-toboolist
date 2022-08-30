@@ -4,14 +4,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #F6F8F9;
 }
 
 /* Header */
 .logo {
     background-image: url(../img/Logo.png);
     background-repeat: no-repeat;
-}
-
-h1 {
-    text-align: center;
+    background-color: #ffffff;
+    display: block;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-bottom: 40px;
 }
