@@ -1,6 +1,17 @@
+/* Start */
 * {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/* Header */
+.logo {
+    background-image: url(../img/Logo.png);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
 }
