@@ -77,6 +77,14 @@ main {
     padding-left: 50px;
 }
 
+.space {
+    padding-top: 30px;
+}
+
+.space2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 .bottoneceleste {
     border-radius: 30px;
     background-color:#45ABEA;
