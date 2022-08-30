@@ -28,11 +28,23 @@ main {
     background-color: #47ADF1;
     color: white;
     border: none;
-    padding: 15px 32px;
+    padding: 8px 15px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     font-size: 13px;
     margin: 4px 2px;
+}
 
-    
+.button2 {
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #C5CBD0;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #C5CBD0;
+    padding: 8px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+}
