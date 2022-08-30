@@ -44,15 +44,6 @@ main {
     padding: 100px 100px;
 }
 
-p {
-    padding: 5px;
-}
-
-.p2 {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
 .button {
     border-radius: 5px;
     background-color: #47ADF1;
@@ -90,6 +81,15 @@ p {
     padding-left: 50px;
 }
 
+p {
+    padding: 5px;
+}
+
+.p2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .space {
     padding-top: 30px;
 }
@@ -98,6 +98,9 @@ p {
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+/* Bottoni colorati */
+
 .bottoneceleste {
     border-radius: 30px;
     background-color:#45ABEA;
