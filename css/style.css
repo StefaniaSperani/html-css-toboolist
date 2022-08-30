@@ -7,6 +7,14 @@
 }
 
 /* Header */
+
+body {
+    background-color: aquamarine;
+}
+
+hr {
+    background-color: aquamarine;
+}
 .logo {
     background-image: url(../img/Logo.png);
     background-repeat: no-repeat;
@@ -47,4 +55,12 @@ main {
     display: inline-block;
     font-size: 13px;
     margin: 4px 2px;
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+.container2 {
+    background-color: #ffffff;
 }
