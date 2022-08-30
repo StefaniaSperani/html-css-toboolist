@@ -9,20 +9,31 @@
 /* Header */
 
 body {
-    background-color: rgb(149, 158, 212);
+    background-color: #F6F8F9;
 }
 
 hr {
     background-color: aquamarine;
 }
 .logo {
-    background-image: url(../img/Logo.png);
-    background-repeat: no-repeat;
     background-color: #ffffff;
+    padding-left: 20px;
     padding-top: 10px;
-    padding-left: 60px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
+
+.img {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.testo {
+    font-size: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+/* Main */
 
 main {
     text-align: left;
