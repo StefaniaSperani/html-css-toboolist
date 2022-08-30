@@ -13,7 +13,10 @@ body {
 }
 
 hr {
-    background-color: #f8f6f9;
+    color: #f8f6f9;
+    border-color: #F5F8F9;
+    height: 5px;
+    border: 0;
 }
 .logo {
     background-color: #ffffff;
