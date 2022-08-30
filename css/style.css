@@ -13,7 +13,7 @@ body {
 }
 
 hr {
-    background-color: aquamarine;
+    background-color: #f8f6f9;
 }
 .logo {
     background-color: #ffffff;
@@ -37,7 +37,7 @@ hr {
 
 main {
     text-align: left;
-    padding: 10% 30%;
+    padding: 100px 100px;
 }
 
 .button {
@@ -68,10 +68,13 @@ main {
 
 .container {
     background-color: #ffffff;
+    padding-left: 50px;
+
 }
 
 .container2 {
     background-color: #ffffff;
+    padding-left: 50px;
 }
 
 .bottoneceleste {
