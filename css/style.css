@@ -40,7 +40,17 @@ hr {
 
 main {
     text-align: left;
+    color: #444851;
     padding: 100px 100px;
+}
+
+p {
+    padding: 5px;
+}
+
+.p2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .button {
