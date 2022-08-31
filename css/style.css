@@ -41,7 +41,8 @@ hr {
 main {
     text-align: left;
     color: #444851;
-    padding: 100px 100px;
+    width: 70%;
+    margin: 40px auto;
     border-radius: 5px;
 }
 
