@@ -102,6 +102,27 @@ p {
     padding-bottom: 30px;
 }
 
+.cerchio{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 25px;
+}
+
+.croce{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border: 1px solid red;
+    color: red;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 25px;
+}
 /* Bottoni colorati */
 
 .bottoneceleste {
